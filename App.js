@@ -175,7 +175,7 @@ const channels = [
     id: 4,
     name: 'Russia',
     icon: 'https://neverthink.tv/assets/images/08bf5b99648ec6a7f56f761fdde5c3189e477a38e1d5a7246749df164206364d.png',
-    playlist: ['', '', ''],
+    playlist: ['y90yaLFoYoA', 'QiFBgtgUtfw', 'xCUUxBVVcQ0'],
   },
 ];
 
