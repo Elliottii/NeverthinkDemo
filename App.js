@@ -21,7 +21,7 @@ import {
 } from 'react-native';
 import {YouTubeStandaloneAndroid} from 'react-native-youtube';
 
-const YOUR_API_KEY = 'AIzaSyAqPY6GL-_No04Ft3_GRMZg0LUs3D6UNIY';               // APIkey from https://console.developers.google.com (if this doesn't work, generate own)
+const YOUR_API_KEY = '';               // APIkey from https://console.developers.google.com (not save to use my own when using GitHub)
 
 const App: () => React$Node = () => {
 
@@ -175,7 +175,7 @@ const channels = [
     id: 4,
     name: 'Russia',
     icon: 'https://neverthink.tv/assets/images/08bf5b99648ec6a7f56f761fdde5c3189e477a38e1d5a7246749df164206364d.png',
-    playlist: ['', '', ''],
+    playlist: ['y90yaLFoYoA', 'QiFBgtgUtfw', 'xCUUxBVVcQ0'],
   },
 ];
 
